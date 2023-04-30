@@ -7,4 +7,4 @@ Project Asakura is a network reimplementation project for Bandai Namco's arcade 
  - [OpenParrot-Asakura](https://github.com/ProjectAsakura/OpenParrot) - a customised fork of OpenParrot with many hacks removed to allow for networking to function correctly.
  
 ## Developers
-The project's main developer is [Luna](https://github.com/ry00001), though community contributions have been of great help.
+The project was started by [Astelle Nightshade](https://github.com/ry00001). Afterwards, many community contributions - notably by [Kitsu](https://github.com/shiroikitsu8) - have resulted in the project reaching the level of completeness it has.
